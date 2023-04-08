@@ -1,0 +1,3 @@
+Kuzmich
+& C:/Users/smart/AppData/Local/Programs/Python/Python311/python.exe e:/5/pythonlesson1.py
+Kuzmich
